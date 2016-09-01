@@ -8,3 +8,7 @@
 
 Unit tests are available for
 - DataParser
+
+![alt tag](https://raw.githubusercontent.com/shiningabdul/MarvelComicViewer/master/Screenshot1.png)
+
+![alt tag](https://raw.githubusercontent.com/shiningabdul/MarvelComicViewer/master/Screenshot2.png)
